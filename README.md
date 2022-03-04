@@ -1,4 +1,4 @@
-# run-app
+# pressapi/php-alpine
 
 build image
 
